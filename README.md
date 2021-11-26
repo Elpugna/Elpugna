@@ -46,7 +46,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 </p>
 <p>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Landing.png" width="30%"></a>
-  <a><img src=https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20.png"" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20.png" width="30%"></a>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Form.png" width="30%"></a>
 </p>
 <p>
