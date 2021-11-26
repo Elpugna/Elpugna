@@ -40,7 +40,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   - You can order both by name or score. 
   - You can create a new recipe using a controlled form
 
-  <h6>🧰 Stack: 🧰</h6>
+  ####🧰 Stack: 🧰
   <b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)
   <b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)
   
@@ -64,7 +64,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   - You can search by city
   - You can access the city details. 
   
-  <h6>🧰 Stack: 🧰</h6>
+  ####🧰 Stack: 🧰
   - React
 </p>
 <p>
