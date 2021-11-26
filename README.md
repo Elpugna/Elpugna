@@ -35,12 +35,12 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <p>
    It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.
 
-    ####Features: 
+    #### Features: 
   - You can search by name and filter by diet type. 
   - You can order both by name or score. 
   - You can create a new recipe using a controlled form
 
-  ####🧰 Stack: 🧰
+  #### 🧰 Stack: 🧰
   <b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)
   <b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)
   
@@ -60,11 +60,11 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <p>
   I'ts a SPA that retrieves weather information from an external API (openweathermap.org) 
   
-   ####Features:  
+   #### Features:  
   - You can search by city
   - You can access the city details. 
   
-  ####🧰 Stack: 🧰
+  #### 🧰 Stack: 🧰
   - React
 </p>
 <p>
