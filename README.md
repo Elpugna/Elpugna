@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hi There, I'm Tomás ](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+### Hi there! 👋
 <p>I am a passionate Fullsack Developer, that has the desire to sharp his current skills and master the most important programming languages and frameworks. I found in technology a world that inspires me to give my 100%, to learn and believe that every action we take shapes the future</p>
 <p> I'm an Argentinian 24 years old developer. I am currently studying at Henry's Full Stack Web Developer BootCamp with more than 800+ hands in coding hours. </p>
 
