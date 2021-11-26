@@ -7,17 +7,17 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PostgreSQL
 
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src=""  height="55" width="55"></a>
+<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a><img src="https://camo.githubusercontent.com/28e93a1bfe79f991ddcd35f7833e8537f0e7b31aa326dfbe98fe7eb538b40b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f657870726573735f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363532382e706e67"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -45,14 +45,14 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
   
 </p>
 <p>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Landing.png" width="30%"></a>
+  <a><img src=https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20.png"" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Form.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipe%20ID%20-%20Top.png" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipe%20ID%20-%20Bottom%20.png" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20-%20Loading.png" width="30%"></a>
 </p>
 
 <h3>⛅ Weather App ⛅</h3>
