@@ -84,7 +84,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 ## How to reach me:
 
 <a href="https://www.linkedin.com/in/tomas-pugnaloni"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45"></a>
-<a href="mailto:tomi.pugna@gmail.com"><img src=""  height="45" width="45"></a>
+<a href="mailto:tomi.pugna@gmail.com"><img src="https://github.com/Elpugna/Elpugna/blob/main/logos/others/email.svg"  height="45" width="45"></a>
 
 <!--
 **Elpugna/Elpugna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
