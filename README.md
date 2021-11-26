@@ -33,18 +33,19 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 ## My last proyects:
 <h3>🥣 Recetillas con Sabor (Tasty Recipes) 🥣</h3>
 <p>
-   It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.
+   It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.</p>
 
-    #### Features: 
-  - You can search by name and filter by diet type. 
-  - You can order both by name or score. 
-  - You can create a new recipe using a controlled form
-
-  #### 🧰 Stack: 🧰
-  <b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)
-  <b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)
+   <h6> Features: </h6>
+   <p>
+     - You can search by name and filter by diet type. 
+     - You can order both by name or score. 
+     - You can create a new recipe using a controlled form
+   </p>
+  <h6> 🧰 Stack: 🧰 </h6>
+   <p><b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)</p>
+   <p><b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)</p>
+ 
   
-</p>
 <p>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Landing.png" width="30%"></a>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20.png" width="30%"></a>
@@ -57,16 +58,15 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 </p>
 
 <h3>⛅ Weather App ⛅</h3>
-<p>
-  I'ts a SPA that retrieves weather information from an external API (openweathermap.org) 
+   <p> I'ts a SPA that retrieves weather information from an external API (openweathermap.org) </p>
   
-   #### Features:  
-  - You can search by city
-  - You can access the city details. 
-  
-  #### 🧰 Stack: 🧰
-  - React
-</p>
+  <h6> Features: </h6>
+     <p>
+        - You can search by city
+        - You can access the city details. 
+     </p>
+  <h6>🧰 Stack: 🧰</h>
+   <p>- React </p>
 <p>
   <a><img src="" width="30%"></a>
   <a><img src="" width="30%"></a>
