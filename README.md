@@ -2,7 +2,7 @@
 ### Hi there! 👋
 <p>I am a passionate Fullsack Developer, that has the desire to sharp his current skills and master the most important programming languages and frameworks. I found in technology a world that inspires me to give my 100%, to learn and believe that every action we take shapes the future</p>
 <p> I'm an Argentinian 24 years old developer. I am currently studying at Henry's Full Stack Web Developer BootCamp with more than 800+ hands in coding hours. </p>
-
+<hr/>
 ## Some tecnologies I've learned and enjoy working with:
 HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
@@ -29,19 +29,18 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 - 🌱 I’m currently learning: Firebase | MaterialUI
 
+<hr/>
 
 ## My last proyects:
 <h3>🥣 Recetillas con Sabor (Tasty Recipes) 🥣</h3>
 <p>
    It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.</p>
 
-   <h6> Features: </h6>
-   <p>
+   <h4> Features: </h4>
      - You can search by name and filter by diet type. 
      - You can order both by name or score. 
      - You can create a new recipe using a controlled form
-   </p>
-  <h6> 🧰 Stack: 🧰 </h6>
+  <h4> 🧰 Stack: 🧰 </h4>
    <p><b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)</p>
    <p><b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)</p>
  
@@ -60,12 +59,11 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <h3>⛅ Weather App ⛅</h3>
    <p> I'ts a SPA that retrieves weather information from an external API (openweathermap.org) </p>
   
-  <h6> Features: </h6>
-     <p>
+  <h4> Features: </h4>
         - You can search by city
         - You can access the city details. 
-     </p>
-  <h6>🧰 Stack: 🧰</h>
+        
+  <h4>🧰 Stack: 🧰</h4>
    <p>- React </p>
 <p>
   <a><img src="" width="30%"></a>
@@ -80,7 +78,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 
 
 
-
+<hr/>
 
 ## How to reach me:
 
@@ -101,3 +99,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
