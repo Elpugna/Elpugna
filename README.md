@@ -73,6 +73,7 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
 <p>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Desktop-Home_01.png" width="100%"></a>
 </p>
+<p>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-About_02.png" width="30%"></a>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Details_01.png" width="30%"></a>
   <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Home_01.png" width="30%"></a>
