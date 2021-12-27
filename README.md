@@ -38,9 +38,9 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
    It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.</p>
 
    <h4> Features: </h4>
-     - You can search by name and filter by diet type. 
-     - You can order both by name or score. 
-     - You can create a new recipe using a controlled form
+     <p>- You can search by name and filter by diet type. </p> 
+     <p>- You can order both by name or score. </p>
+     <p>- You can create a new recipe using a controlled form </p>
   <h4> 🧰 Stack: 🧰 </h4>
    <p><b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)</p>
    <p><b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)</p>
@@ -61,20 +61,24 @@ HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
    <p> I'ts a SPA that retrieves weather information from an external API (openweathermap.org) </p>
   
   <h4> Features: </h4>
-        - You can search by city
-        - You can access the city details. 
+    <p>- Responsive </p>
+    <p>- Dark Theme </p>
+    <p>- You can search by city </p>
+    <p>- You can access the city details. </p>
         
   <h4>🧰 Stack: 🧰</h4>
    <p>- React </p>
+   <p>- React Router </p>
+   <p>- Styled-Components </p>
 <p>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Desktop-Home_01.png" width="100%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-About_02.png" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Details_01.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
-  <a><img src="" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Home_01.png" width="30%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Tablet-Home-Menu_01.png" width="50%"></a>
+  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Tablet-Home_02.png" width="50%"></a>
 </p>
 
 
