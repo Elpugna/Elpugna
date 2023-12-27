@@ -1,109 +1,116 @@
 ![Hi There, I'm Tomás ](https://github.com/Elpugna/Elpugna/blob/main/img/Presentation.gif)
 ### Hi there! 👋
-<p>I am a passionate Fullsack Developer, that has the desire to sharp his current skills and master the most important programming languages and frameworks. I found in technology a world that inspires me to give my 100%, to learn and believe that every action we take shapes the future</p>
-<p> I'm an Argentinian 24 years old developer. I am currently studying at Henry's Full Stack Web Developer BootCamp with more than 800+ hands in coding hours. </p>
+<p>I am a passionate Developer, that has the desire to sharp his current skills and master the most important programming languages and frameworks. I found in technology a world that inspires me to give my 100%, to learn and believe that every action we take shapes the future.</p>
 <hr/>
 
-<h3 Some tecnologies I've learned and enjoy working with:</h3>
+<h3> Some tecnologies I've learned and enjoy working with:</h3>
 HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PostgreSQL
 
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55"></a>
+
+<a><img src="logos/java.svg" alt=java height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55"></a>
+<a><img src="logos/scala.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55"></a>
+<a><img src="logos/spring.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55"></a>
+<a><img src="logos/docker.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55"></a>
+<a><img src="logos/kubernetes.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55"></a>
+<a><img src="logos/azure.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://camo.githubusercontent.com/28e93a1bfe79f991ddcd35f7833e8537f0e7b31aa326dfbe98fe7eb538b40b46/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f657870726573735f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363532382e706e67"  height="55" width="55"></a>
+<a><img src="logos/kafka.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://camo.githubusercontent.com/c7df0ed52a480ff725aac7ac3a11c8aedb6f60ea8ab01929c6adea9903589222/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f73657175656c697a655f69636f6e5f3133303137332e706e67"  height="55" width="55"></a>
+<a><img src="logos/cassandra.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"  height="55" width="55"></a>
+<a><img src="logos/postgresql.svg"  height="55" width="55"></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a><img src="logos/postman.svg"  height="55" width="55"></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a><img src="logos/keycloak.svg"  height="55" width="55"></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a><img src="logos/maven.svg"  height="55" width="55"></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a><img src="logos/sbt.svg"  height="55" width="55"></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a><img src="logos/git.svg"  height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-- 🌱 I’m currently learning: Firebase | MaterialUI
+- 🌱 I’m currently developing my backend skills while learning: Scala | Spark | Java
 
 <hr/>
 
 ## My last proyects:
-<h3>🥣 Recetillas con Sabor (Tasty Recipes) 🥣</h3>
+### 🥣 Recetillas con Sabor (Tasty Recipes) 🥣
 <p>
    It's a SPA(Single Page Application) that retrieves the information from an external API (Spoonacular.com/food-api) and from a local database. The app displays the different recipes and their details.</p>
 
-   <h4> Features: </h4>
-     <p>- You can search by name and filter by diet type. </p> 
-     <p>- You can order both by name or score. </p>
-     <p>- You can create a new recipe using a controlled form </p>
-  <h4> 🧰 Stack: 🧰 </h4>
-   <p><b>🖼 Front-End: </b> React (+Redux, +Router, +Styled Components)</p>
-   <p><b>🗄 Back-End: </b> NodeJs, Express, PostgreSQL (+Sequelize)</p>
+#### Features: 
+- You can search by name and filter by diet type. 
+- You can order both by name or score. 
+- You can create a new recipe using a controlled form 
+
+#### 🧰 Stack: 🧰 
+
+##### **Front-End:**
+- <a><img src="logos/react.svg"  height="20" width="25"></a> React
+  - <a><img src="logos/redux.svg"  height="20" width="25"></a>Redux
+  - <a><img src="logos/react-router.svg"  height="20" width="25"></a>Router
+- <a><img src="logos/styled-components.svg"  height="20" width="25"></a>Styled Components
+
+##### **Back-End:**
+- <a><img src="logos/nodejs.svg"  height="20" width="25"></a>NodeJs
+- <a><img src="logos/express.svg"  height="20" width="25"></a>Express
+- <a><img src="logos/postgresql.svg"  height="20" width="25"></a>PostgreSQL
+- <a><img src="logos/sequelize.svg"  height="20" width="25"></a>Sequelize
  
   
 <p>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Landing.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Form.png" width="30%"></a>
+  <a><img src=img/Recetillas-Con-Sabor-PI/Landing.png width="30%"></a>
+  <a><img src="img/Recetillas-Con-Sabor-PI/Recipes.png" width="30%"></a>
+  <a><img src="img/Recetillas-Con-Sabor-PI/Form.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipe%20ID%20-%20Top.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipe%20ID%20-%20Bottom%20.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/Recetillas%20con%20Sabor%20-%20Proyecto%20Individual/PI-%20Recipes%20-%20Loading.png" width="30%"></a>
+  <a><img src="img/Recetillas-Con-Sabor-PI/RecipeID-Top.png" width="30%"></a>
+  <a><img src="img/Recetillas-Con-Sabor-PI/RecipeID-Bottom.png" width="30%"></a>
+  <a><img src="img/Recetillas-Con-Sabor-PI/Recipes-Loading.png" width="30%"></a>
 </p>
 
-<h3>⛅ Weather App ⛅</h3>
+### ⛅ Weather App ⛅
    <p> I'ts a SPA that retrieves weather information from an external API (openweathermap.org) </p>
-  
-  <h4> Features: </h4>
-    <p>- Responsive </p>
-    <p>- Dark Theme </p>
-    <p>- You can search by city </p>
-    <p>- You can access the city details. </p>
+
+#### Features:
+- Responsive
+- Dark Theme
+- You can search by city
+- You can access the city details.
         
-  <h4>🧰 Stack: 🧰</h4>
-   <p>- React </p>
-   <p>- React Router </p>
-   <p>- Styled-Components </p>
+#### 🧰 Stack: 🧰
+- <a><img src="logos/react.svg"  height="20" width="25"></a> React   
+- <a><img src="logos/react-router.svg"  height="20" width="25"></a> React Router
+- <a><img src="logos/styled-components.svg"  height="20" width="25"></a> Styled-Components 
 <p>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Desktop-Home_01.png" width="100%"></a>
+  <a><img src="img/WeatherApp/Desktop-Home_01.png" width="100%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-About_02.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Details_01.png" width="30%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Mobile-Home_01.png" width="30%"></a>
+  <a><img src="img/WeatherApp/Mobile-About_02.png" width="30%"></a>
+  <a><img src="img/WeatherApp/Mobile-Details_01.png" width="30%"></a>
+  <a><img src="img/WeatherApp/Mobile-Home_01.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Tablet-Home-Menu_01.png" width="40%"></a>
-  <a><img src="https://github.com/Elpugna/Elpugna/blob/main/img/WeatherApp/Tablet-Home_02.png" width="50%"></a>
+  <a><img src="img/WeatherApp/Tablet-Home-Menu_01.png" width="40%"></a>
+  <a><img src="img/WeatherApp/Tablet-Home_02.png" width="50%"></a>
 </p>
 
 
 
 <hr/>
 
-## How to reach me:
+## Feel free to contact me:
 
-<a href="https://www.linkedin.com/in/tomas-pugnaloni"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45"></a>
-<a href="mailto:tomi.pugna@gmail.com"><img src="https://github.com/Elpugna/Elpugna/blob/main/logos/others/email.svg"  height="45" width="45"></a>
+<a href="https://www.linkedin.com/in/tomas-pugnaloni"><img src="logos/linkedin.svg"  height="45" width="45"> > Tomas Pugnaloni</a>
 
-<!--
-**Elpugna/Elpugna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:tomi.pugna@gmail.com"><img src="logos/envelope.svg"  height="45" width="45"> > tomi.pugna@gmail.com</a>
 
