@@ -3,11 +3,7 @@
 <p>I am a passionate Developer, that has the desire to sharp his current skills and master the most important programming languages and frameworks. I found in technology a world that inspires me to give my 100%, to learn and believe that every action we take shapes the future.</p>
 <hr/>
 
-<h3> Some tecnologies I've learned and enjoy working with:</h3>
-HTML&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express Js
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize ORM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PostgreSQL
-
+<h3> Some tecnologies & tools I have learned and enjoy working with:</h3>
 
 <a><img src="logos/java.svg" alt=java height="55" width="55"></a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
